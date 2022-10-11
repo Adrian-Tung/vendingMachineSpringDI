@@ -1,0 +1,12 @@
+2022-10-05 12:31:20 : $3 deposited by customer
+2022-10-05 12:31:26 : Item COFFEE purchased at $2.29 Quantity Left - 9
+2022-10-05 12:31:26 : $0.71 returned to customer
+2022-10-05 12:31:38 : $5 deposited by customer
+2022-10-05 12:31:42 : Item WATER purchased at $1.50 Quantity Left - 5
+2022-10-05 12:31:42 : $3.50 returned to customer
+2022-10-05 11:29:45 : $3.35 deposited by customer
+2022-10-05 11:29:54 : Item WATER purchased at $1.50 Quantity Left - 4
+2022-10-05 11:29:54 : $1.85 returned to customer
+2022-10-11 06:23:49 : $5 deposited by customer
+2022-10-11 06:23:59 : Item COFFEE purchased at $2.29 Quantity Left - 8
+2022-10-11 06:23:59 : $2.71 returned to customer
